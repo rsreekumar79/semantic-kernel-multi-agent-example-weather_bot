@@ -1,1 +1,1 @@
-A simple weather bot utilizing multi-agentic framework of semantic kernel. 
+A simple weather bot utilizing multi-agentic framework of semantic kernel in Python. 
